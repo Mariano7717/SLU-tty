@@ -58,9 +58,9 @@ banner_crededit = ("-----------------<  EDIT CREDS  >------------------\n"
 banner_netmiko = ("-----------------<  Netmiko  >------------------\n"
                    " Automated tools \n"
                    "---------------------------------------------------\n"
-                   "  1. Add a new credential \n"
-                   "  2. Edit an existing credential \n"
-                   "  3. Delete an existing credential \n"
+                   "  1. netmiko 1 \n"
+                   "  2. netmiko 2 \n"
+                   "  3. netmiko 3 \n"
                    ""))
 
 
